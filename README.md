@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I speak 4 languages ( English, Urdu, Punjabi)
+- ⚡ Fun fact: I speak 3 languages ( English, Urdu, Punjabi)
 
 
 ### Talk with me, I am kinda awesome:
