@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-08-25T14:01:07.911Z" agent="5.0 (X11)" etag="ftLyxzcb15_ElgWdBfSq" version="14.9.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-25T14:23:52.080Z" agent="5.0 (X11)" etag="_rEPz7vgRMtqYUshM8XX" version="14.9.9" type="github">
   <diagram id="1Bfr3mKwywaLFkRyUR4w" name="Page-1">
-    <mxGraphModel dx="4300" dy="2043" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2068" dy="721" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -97,8 +97,8 @@
             <mxPoint x="810" y="3160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jr2tf26-BkU2WO63kZF1-32" value="After sending the invite to a member, we do not have anything to know that &#xa;whether the invited member Accept, Reject or the invitation is in pending stage.&#xa;&#xa;There must be a button with it to resend the Invite along with above details. " style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=0;fontSize=22;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="3460" width="890" height="130" as="geometry" />
+        <mxCell id="jr2tf26-BkU2WO63kZF1-32" value="After sending the invite to a member, we do not have anything to know that &#xa;whether the invited member has Accept, Reject or the invitation is in pending &#xa;stage.&#xa;&#xa;We need 2 things.&#xa;1) Api to resend invite&#xa;2) The status of each member&#xa; " style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=0;fontSize=22;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="329" y="3460" width="890" height="220" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
